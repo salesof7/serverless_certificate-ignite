@@ -165,7 +165,7 @@ dist
 
 # Local History for Visual Studio Code
 .history/
-
+lib
 # Built Visual Studio Code Extensions
 *.vsix
 

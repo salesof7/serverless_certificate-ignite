@@ -1,5 +1,5 @@
 {
-  "name": "certificateignite",
+  "name": "certificate-ignite",
   "version": "1.0.0",
   "description": "Serverless aws-nodejs-typescript template",
   "main": "serverless.ts",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@middy/core": "^3.4.0",
-    "@middy/http-json-body-parser": "^3.4.0"
+    "@middy/http-json-body-parser": "^3.4.0",
+    "aws-sdk": "^2.1250.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.2.0",
